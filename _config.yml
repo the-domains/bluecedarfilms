@@ -1,0 +1,28 @@
+name: BlueCedarFilms
+favicon: null
+layout_spectrum: 0.4474894851446152
+typography_spectrum: 0.24429146945476532
+cta:
+  domain: null
+  bucket: null
+  version: null
+analytics:
+  google: null
+  facebook: null
+  twitter: null
+opengraph:
+  image: null
+  type: null
+  appId: null
+color:
+  brandColors:
+    - '#9D2D3C'
+    - '#DDE4DD'
+    - '#BCAB47'
+    - '#6B574B'
+    - '#160600'
+  brandStrength: 0.4546261806972325
+  lightness: 0.8723246667068452
+  saturation: 0.9546613334678113
+  rhythmicContrast: 0.5953322348650545
+purpose: []
