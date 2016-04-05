@@ -1,16 +1,19 @@
 ---
+inFeed: true
+hasPage: false
+inNav: false
+isBasedOnUrl: 'https://vimeo.com/119433787'
+inLanguage: null
+starred: false
+keywords: []
+description: "Lost Days contains a short film within itself as it follows the relationship between an alcoholic and his family, an original song created by up and coming artist Henry Maybury. The song itself falls under the genre of pop/rock. The lyrics reflect the artist's own experiences as alcoholic abuse overcame his brother."
+datePublished: '2016-04-05T12:21:43.634Z'
+dateModified: '2016-04-05T12:17:15.479Z'
 author:
   - name: Blue Cedar Films
     url: 'http://vimeo.com/bluecedarfilms'
     avatar: {}
 related: []
-publisher:
-  url: 'https://vimeo.com/'
-  name: Vimeo
-  favicon: 'https://f.vimeocdn.com/images_v6/favicon.ico'
-  domain: vimeo.com
-keywords: []
-description: "Lost Days contains a short film within itself as it follows the relationship between an alcoholic and his family, an original song created by up and coming artist Henry Maybury. The song itself falls under the genre of pop/rock. The lyrics reflect the artist's own experiences as alcoholic abuse overcame his brother."
 app_links:
   - url: 'vimeo://app.vimeo.com/videos/119433787'
     type: ios
@@ -38,15 +41,15 @@ app_links:
     type: googleplay
     name: Vimeo
     id: com.vimeo.android.videoapp
-isBasedOnUrl: 'https://vimeo.com/119433787'
 title: Lost Days (Music Video)
-datePublished: '2016-04-05T09:08:50.757Z'
-dateModified: '2016-04-04T20:35:18.957Z'
 sourcePath: _posts/2016-04-05-lost-days-music-video.md
 published: true
-inFeed: true
-hasPage: false
-inNav: false
+authors: []
+publisher:
+  name: Vimeo
+  domain: vimeo.com
+  url: 'https://vimeo.com/'
+  favicon: 'https://f.vimeocdn.com/images_v6/favicon.ico'
 _type: VideoObject
 _context: 'http://schema.org'
 
