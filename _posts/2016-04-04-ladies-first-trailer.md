@@ -6,8 +6,8 @@ inLanguage: null
 starred: true
 keywords: []
 description: "Ladies First is set in the year 1919, where a young couple's light flirting quickly turns into a debate on gender equality."
-datePublished: '2016-04-04T19:31:43.753Z'
-dateModified: '2016-04-04T19:31:33.290Z'
+datePublished: '2016-04-05T12:22:11.106Z'
+dateModified: '2016-04-05T11:54:10.060Z'
 author:
   - name: Blue Cedar Films
     url: 'http://vimeo.com/bluecedarfilms'
